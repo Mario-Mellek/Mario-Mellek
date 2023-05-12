@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/107096218?v=4" width="350px">
+  <img src="https://avatars.githubusercontent.com/u/107096218?v=4" width="250px">
   <h1>Hi there 👋 I'm Mario Mellek!</h1>
 </div>
 
