@@ -18,7 +18,7 @@ I taught full-stack web development to aspiring coders for a short period of tim
   
 <h2 align="center">My skills</h2>
 
-<table align="center"">
+<table align="center">
   <tr>
     <td valign="top">
       <ul>
@@ -52,10 +52,10 @@ I taught full-stack web development to aspiring coders for a short period of tim
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Mellek&layout=compact" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Mellek&layout=compact&langs_count=8&theme=dark" align="left" style="width: 100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mario-Mellek&show_icons=true&theme=radical" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mario-Mellek&show_icons=true&theme=dark" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
@@ -64,11 +64,11 @@ I taught full-stack web development to aspiring coders for a short period of tim
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mario-Mellek)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mario-Mellek&theme=dark)](https://git.io/streak-stats)
 
   [![Mario's GitHub Contributions](https://ghchart.rshah.org/Mario-Mellek)](https://github.com/Mario-Mellek/github-chart)
 
-  [![Mario's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mario-Mellek&theme=onedark)](https://github.com/Mario-Mellek/github-profile-trophy)
+  [![Mario's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mario-Mellek&theme=gruvbox)](https://github.com/Mario-Mellek/github-profile-trophy)
 
   ![Profile views](https://komarev.com/ghpvc/?username=Mario-Mellek)
   
