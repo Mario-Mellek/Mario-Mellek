@@ -52,7 +52,7 @@ I taught full-stack web development to aspiring coders for a short period of tim
 <table>
   <tr>
     <td valign="middle" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Mellek&layout=compact&langs_count=8&theme=dark" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Mellek&layout=compact&langs_count=7&theme=dark" align="left" style="width: 100%" />
     </td>
     <td valign="middle" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Mario-Mellek&show_icons=true&theme=dark" align="left" style="width: 100%" />
