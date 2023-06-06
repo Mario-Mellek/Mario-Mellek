@@ -12,7 +12,7 @@ I taught full-stack web development to aspiring coders for a short period of tim
 - 📫 How to reach me: 
   - 📧 Email: [mario.samy266@gmail.com](mailto:mario.samy266@gmail.com)
   - 💼 LinkedIn: [Mario Samy](https://www.linkedin.com/in/mario-samy-2a3036246/)
-  - 💬 Discord: Mario Mellek#6237
+  - 💬 Discord: Mario-Mellek#2805
 
 - 🎵 Check out my web app: [Lyrical-Master](https://github.com/Mario-Mellek/Lyrical-Master) - A web app that lets you search for songs and its lyrics.
   
