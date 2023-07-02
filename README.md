@@ -5,16 +5,15 @@
 
 <h2 align="center">About me</h2>
 
-I'm a law graduate with a passion for developing functional, responsive, and user-friendly web applications. I'm skilled in HTML, CSS, JavaScript, Git, React.js, Bootstrap, Tailwindcss, PostgreSQL, MongoDB, node.js, express.js and AWS.
+I'm a law graduate with a passion for developing functional, responsive, and user-friendly web applications. I'm skilled in HTML, CSS, JavaScript, Git, React.js, Bootstrap, Tailwindcss, PostgreSQL, MongoDB, node.js, express.js, and AWS.
 
 I taught full-stack web development to aspiring coders for a short period of time and I'm currently studying software engineering at ALX to further enhance my programming skills.
 
 - 📫 How to reach me: 
   - 📧 Email: [mario.samy266@gmail.com](mailto:mario.samy266@gmail.com)
   - 💼 LinkedIn: [Mario Samy](https://www.linkedin.com/in/mario-samy-2a3036246/)
-  - 💬 Discord: Mario-Mellek#2805
 
-- 🎵 Check out my web app: [Lyrical-Master](https://github.com/Mario-Mellek/Lyrical-Master) - A web app that lets you search for songs and its lyrics.
+- 🎵 Check out my web app: [Lyrical-Master](https://github.com/Mario-Mellek/Lyrical-Master) - A web app that lets you search for songs and their lyrics.
   
 <h2 align="center">My skills</h2>
 
