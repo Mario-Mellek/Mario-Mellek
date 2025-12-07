@@ -49,6 +49,7 @@ I taught full-stack web development to aspiring coders for a short period of tim
 </table>
 
 <table>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
   <tr>
     <td valign="middle" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Mellek&layout=compact&langs_count=7&theme=dark" align="left" style="width: 100%" />
